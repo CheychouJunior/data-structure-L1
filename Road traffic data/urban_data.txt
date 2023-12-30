@@ -1,0 +1,113 @@
+23/03/2022"16:28:24"F"18"23/03/2022"Ras"Ras"0"Non"0"Ras
+23/03/2022"16:28:54"M"18"23/03/2022"10H-12H"Éleveur - Ngousso ( 200frs)"200"Non"15"Mauvaise
+23/03/2022"16:29:53"M"21"23/03/2022"12H-16H"Ekoumdoum (Collège Pérou)-Awae Escalier (collège Dipito) marche pieds"0"Non"30"Passable
+23/03/2022"16:31:14"M"18"12/01/2004"10H-12H"Carrefour TKC a Dovv mokolo 300 suivi de Dovv mokolo Afri Land acacia 400 puis Afri land acacia Maison Blanche à pied"600"Non"30"Passable
+23/03/2022"16:32:23"F"18"23/03/2022"Ras"Ras"0"Non"0"Ras
+23/03/2022"16:33:05"M"18"07/09/2003"18H-20H"De château ngoakele à terminus Mimboman 300fr et de terminus au dernier poto minboman 100fr"400"Oui"60"Bonne
+23/03/2022"16:36:00"M"19"23/03/2022"06H-10H"mobile omnisport - hôpital général Ngousso montant: 150f emprunté un taxi"150"Oui"13"Passable
+23/03/2022"16:36:16"M"17"23/03/2022"12H-16H"Première entré après le Carrefour Ebanda tout droit--- Entrée Simbock----moto"100"Non"8"Passable
+23/03/2022"16:37:16"M"18"23/03/2022"10H-12H"Etoudi-poste centrale, 300fcfa, taxi"1200"Oui"10"Bonne
+23/03/2022"16:37:34"M"18"23/03/2022"RAS"RAS"0"Non"0"RAS
+23/03/2022"16:39:23"M"23"23/03/2022"16H-18H"Cité U je proposes au taxi 500f pour arriver a odza avant terminus plus précisément"500"Oui"60"Passable
+23/03/2022"16:40:37"M"17"23/03/2022"06H-10H"Garage camion(cité verte), marché 8eme, moto taxi,300 - marché 8eme, polyclinique (Tsinga), à pied, 0"300"Non"30"Bonne
+23/03/2022"16:43:52"M"17"23/03/2022"16H-18H"Polyclinique (Tsinga), marché 8eme, à pied,0"0"Non"15"Bonne
+23/03/2022"16:45:40"M"20"22/03/2022"12H-16H"Départ de l'école de poste pour la cite 100f sur une moto"100"Non"2"Bonne
+23/03/2022"16:46:40"F"23"23/03/2022"9h-16h30H"Carrefour régi - hôpital général"250"Non"10"Bonne
+23/03/2022"16:48:07"M"19"23/03/2022"06H-10H"École de police-mokolo 150 moto"300"Non"10"Bonne
+23/03/2022"16:48:28"F"20"23/03/2022"12H-16H"Jai prise le taxi de hôtel du plateau d'essos à château de ngoa kele 300 et au retour de château de ngoakele à hôtel du plateau d'essos 300"600"Oui"45"Bonne
+23/03/2022"16:49:14"F"20"23/03/2022"10H-12H"Scalom-marché alcacia Tarif 100f Moto Marché alcacia-scalom Tarif 100f Moto"200"Non"6"Passable
+23/03/2022"16:49:37"F"20"22/03/2022"18H-20H"Château - hôtel du plateau 250 taxi Hôtels du plateau - mobile emana 300 taxi Mobile emana - monté mairie d'obala 500 car Monté mairie d'obala - boulangerie elig-bassala 100 moto"1150"Oui"170"Passable
+23/03/2022"16:50:47"M"18"23/03/2022"12H-16H"départ :ngousso tarif:500fcfa moyen de transport :taxi destination :château trajets :aller et retour"1000"Oui"26"Passable
+23/03/2022"16:51:04"F"17"23/03/2022"16H-18H"Points e départ : Santa maria Points d'arriver : hôpital général Moyen de transport : moto"200"Non"5"Bonne
+23/03/2022"16:51:11"F"20"22/03/2022"12H-16H"Jai prise de hôtel du plateau d'essos à château de ngoa kele 300 à aller et 400 de château de ngoa kele à hôtel du plateau d'essos"700"Oui"45"Bonne
+23/03/2022"16:51:52"M"19"23/03/2022"12H-16H"École de police- miboman 400"800"Oui"30"Passable
+23/03/2022"16:54:32"F"20"23/03/2022"12H-16H"Elig-bassala - chapelle Marie mère de Dieu d'obala 200 moto"200"Non"10"Bonne
+23/03/2022"16:55:00"F"17"23/03/2022"Ras"Ras"0"Non"0"Ras
+23/03/2022"16:57:24"M"20"23/03/2022"10H-12H"RAS"0"Non"0"RAS
+23/03/2022"16:57:42"F"20"23/03/2022"16H-18H"Chapelle Marie mère de Dieu d'obala - elig-bessala 200 moto"200"Non"10"Bonne
+23/03/2022"16:59:35"F"18"23/03/2022"06H-10H"Le trajet s’est effectué de entrée Simbock à  la cité U, au environ de 06 h 45, il y a eu beaucoup d’embouteillages, le tarif était normal, et les routes assez bien goudronnées"700"Oui"20"Passable
+23/03/2022"16:59:44"F"21"23/03/2022"10H-12H"Shell mvog-ada - sapeur mokolo"500"Oui"30"Bonne
+23/03/2022"17:00:57"M"17"23/03/2022"12H-16H"Odza( Mbog Abang)- Hippodrome (Calafatas)"400"Non"30"Bonne
+23/03/2022"17:02:31"M"20"23/03/2022"06H-10H"Point de départ Camp sonel Oyom'abang. Première escale Montée parc point d'arrivée École Polytechnique de Yaoundé"500"Oui"60"Mauvaise
+23/03/2022"17:03:31"M"18"23/03/2022"Ras"Ras"0"Non"0"RAS
+23/03/2022"17:04:21"M"18"23/03/2022"10H-12H"Essos hôtel du plateau - Château ngoa ekele"250"Oui"45"Passable
+23/03/2022"17:04:49"F"18"23/03/2022"10H-12H"Carrefour meck - politech Pour un tarif de 200 Transport dans un taxi 2 trajets effectués"400"Non"10"Mauvaise
+23/03/2022"17:05:40"M"18"23/03/2022"10H-12H"cradat, education, 250, voiture"250"Non"10"Bonne
+23/03/2022"17:05:54"M"18"23/03/2022"16H-18H"Château ngoa ekele - Essos Hôtel du plateau"250"Oui"45"Passable
+23/03/2022"17:06:20"F"18"22/03/2022"06H-10H"Total Emombo- Cité U Voiture 300F"300"Oui"15"Passable
+23/03/2022"17:09:53"F"18"10/03/2003"12H-16H"Point de départ : nouvelle route omnisports Moyen : taxi Point d’arrivée : ministère des finances"300"Non"15"Passable
+23/03/2022"17:10:03"F"17"23/03/2022"6H-10H"Ras"0"Non"0"Ras
+23/03/2022"17:11:32"F"17"23/03/2022"10H-12H"De l'école Sainte Thérèse à Valclair à la marche à coûté 0 FCFA"0"Non"20"Passable
+23/03/2022"17:12:54"M"17"23/03/2022"12H-16H"Awae laverie - Terminus Mimboman"250"Non"30"Passable
+23/03/2022"17:13:08"M"18"22/03/2022"10H-12H"Départ trader éleveur arrivé université de yaounde 1 départ j'ai prit 400f université de yaounde 1 retour j'ai marchez jusqu'à camer et j'ai pris le car 250f éleveur"650"Oui"75"Passable
+23/03/2022"17:13:42"M"20"22/03/2022"12H-16H"Carrefour banane Mendong - cité U"250"Non"30"Passable
+23/03/2022"17:13:44"M"18"23/03/2022"12H-16H"J'ai pris une moto a la station Neptune situé en face de l'école des postes en direction de la cité U"100"Non"8"Bonne
+23/03/2022"17:15:10"F"18"22/03/2022"18H-20H"· Château Ngoa-Ekele - Commissariat Ngoa -Ekele (marche) · Commissariat Ngoa-Ekele - Carrefour Awae Escalier (400 FCFA) · Carrefour Awae- Escalier - Monti- Maxwell (200 FCFA)"600"Non"50"Passable
+23/03/2022"17:16:23"F"20"22/03/2022"10H-12H"Entrée foyer bandjoun château-taxi"250"Non"12"Bonne
+23/03/2022"17:18:28"M"20"22/03/2022"18H-20H"Cité U - marche Mendong Moto Taxi 300"300"Oui"30"Passable
+23/03/2022"17:22:50"M"19"15/05/2002"12H-16H"300f Montée jouvence a moto jusqu'à la cité U Ensuite de Bonas a la montée jouvence 250"550"Oui"15"Passable
+23/03/2022"17:23:17"F"19"23/03/2022"RAS"RAS"0"Non"0"RAS
+23/03/2022"17:23:19"M"21"20/03/2022"16H-18H"Trajet sangmelima-yaounde tarif 2000f on traverse les villes telles que metet mbalmayo"2000"Non"150"Passable
+23/03/2022"17:24:39"F"18"23/03/2022"12H-16H"Maison-boutique au quartier Ekié a pieds"0"Non"3"Passable
+23/03/2022"17:25:04"M"20"22/03/2022"18H-20H"Carrefour EMIA-carrefour messassi.tarif 300 FCFA ,moyen de transport bus."300"Oui"59"Passable
+23/03/2022"17:25:39"M"18"23/03/2022"06H-10H"Odza borne12 - château ngoa ekele, taxi , 400f odza borne12 - poste puis 100f poste-château"500"Non"30"Bonne
+23/03/2022"17:26:59"M"17"23/03/2022"10H-12H"Lieu de départ : Mehandan Lieu d'arrivée : Carrefour Awae Escalier"500"Non"40"Mauvaise
+23/03/2022"17:27:03"F"20"23/03/2022"06H-10H"Moto,de Johannesburg à mendong 200frs et de mendong à cité U 300frs"1000"Oui"60"Mauvaise
+23/03/2022"17:27:43"M"17"09/04/2004"Ras"Ras"0"Non"0"Ras
+23/03/2022"17:31:12"M"19"23/03/2022"RAS"RAS"0"Non"0"RAS
+23/03/2022"17:37:34"F"19"23/03/2022"12H-16H"Lycée de biyem-assi/ngoa ekele (château)"150"Non"10"Bonne
+23/03/2022"17:44:15"M"21"23/03/2022"06H-10H"Nkolbisson(béatitude)-entrée parc 300fcfa entrée parc-Polytechnique 100fcfa Polytechnique-Uy1 à pied"400"Oui"45"Passable
+23/03/2022"17:44:53"M"21"23/03/2022"16H-18H"Nsimeyong- medon"150"Oui"7"Passable
+23/03/2022"17:49:31"M"21"23/03/2022"10H-12H"Uy1-meec à pied meec-nkolbisson(béatitude) 200fcfa"200"Non"60"Passable
+23/03/2022"17:53:22"M"17"23/03/2022"16H-18H"Départ : école de poste Destination : Rosière supérieur Tarif 400: Moyen de transport: taxi et moto"400"Non"20"Bonne
+23/03/2022"17:54:52"F"18"23/03/2022"06H-10H"Carrefour Nkolbisson-entrée du parc(Nkolbikok)(150)-polytechnique(Melen)(100)"250"Non"40"Passable
+23/03/2022"17:56:49"F"18"23/03/2022"10H-12H"Point de départ damas Tarif 250f Moyen de transport taxi ou motos"500"Oui"15"Passable
+23/03/2022"17:57:55"F"17"22/03/2022"12H-16H"Rond point express (biyemassi)_cité U(ngoa ékélé)_250_taxi"250"Non"30"Bonne
+23/03/2022"17:58:45"M"18"15/01/2004"06H-10H"Point de départ :cradat Point d'arrivé:UY1"100"Non"3"Bonne
+23/03/2022"18:00:03"F"17"22/03/2022"18H-20H"Cité U(ngoa ékélé)_Rond point express (biyemassi)_200_moto"200"Oui"35"Bonne
+23/03/2022"18:00:43"F"17"23/03/2022"10H-12H"Oyack (nkomo II) à ekounou (100f) Ekounou à Can sable (nkomo II)"300"Oui"5"Mauvaise
+23/03/2022"18:01:17"F"17"23/03/2022"Ras"Ras"0"Non"0"Bonne
+23/03/2022"18:02:02"F"18"23/03/2022"06H-10H"Maison emana pont -marche- emana pont école normale -400-taxi"400"Oui"40"Bonne
+23/03/2022"18:04:35"M"20"22/03/2022"10H-12H"Du rond point damas a la cité U a l'aide d'un taxi ce qui à coûté 250 franc"350"Non"15"Passable
+23/03/2022"18:07:48"F"18"23/03/2022"06H-10H"Maison -campus Matin Taxi 200"400"Oui"30"Bonne
+23/03/2022"18:08:18"M"20"22/03/2022"19h-20h"Partant de la cité U à pieds jusqu'au carefour shell ensuite emprunt d'un taxi au carefour shell jusqu'au rond point damas en payant 100 franc"350"Non"60"Passable
+23/03/2022"18:11:05"M"19"23/03/2022"12H-16H"entree simbock-borne 15"100"Non"10"Bonne
+23/03/2022"18:12:16"M"20"23/03/2022"RAS"RAS"0"Non"0"RAS
+23/03/2022"18:13:37"F"17"23/03/2022"Ras"Ras"0"Non"0"Ras
+23/03/2022"18:18:43"M"20"23/03/2022"10H-12H"Carrefour messassi -pharmatie olembé.tarif 100 FCFA.pharmatie olembé- carrefour messassi. Tarif 100 FCFA. Moyen de transport taxi."200"Non"8"Bonne
+23/03/2022"18:22:48"M"17"23/03/2022"16H-18H"Chapelle vers terminus"250"Non"30"Mauvaise
+23/03/2022"18:25:49"M"18"23/03/2022"06H-10H"Du Carrefour Nkoabang au portail de l'ENS parcouru en taxi"500"Oui"40"Bonne
+23/03/2022"18:27:56"M"19"23/03/2022"12H-16H"Départ :messassi , tarif 200 , taxi , destination olembe entrée école"400"Non"10"Passable
+23/03/2022"18:32:16"F"19"23/03/2022"06H-10H"Lieu de départ : carrefour obilie lieu d'arrivée : cradad, tarif moyen 100f"200"Oui"20"Passable
+23/03/2022"18:37:09"M"17"23/03/2022"06H-10H"Meyo(nanga city)-100-barrière-300-Cite U"400"Oui"70"Bonne
+23/03/2022"18:38:46"M"22"06/12/1999"06H-10H"Carrefour mvan vers UY1 en passant par Atangana Mbala"400"Non"35"Passable
+23/03/2022"18:38:48"M"18"23/03/2022"12H-16H"Départ : carrefour messassi, destination :château. Tarif : 400FCFA. Moyen de transport : taxi."400"Oui"45"Bonne
+23/03/2022"18:48:45"M"21"23/03/2022"06H-10H"De Melen pour le campus"200"Non"10"Bonne
+23/03/2022"18:49:11"M"19"22/03/2022"12H-16H"Eloumdem après le pont - entrée simbock (150). Entrée simbock- cite u (250)"400"Oui"25"Bonne
+23/03/2022"18:53:33"M"17"23/03/2022"12H-16H"Chappelle obilli pour la site U"100"Oui"15"Passable
+23/03/2022"18:54:09"M"17"23/03/2022"RAS"RAS"0"Non"0"RAS
+23/03/2022"18:54:11"F"18"23/03/2022"10H-12H"Du carrefour condom ( bonas ) à la chapelle obili ( obili )"100"Non"5"Bonne
+23/03/2022"18:56:40"F"17"23/03/2022"12H-16H"Carrefour Nlongkak - Cité U"250"Non"30"Bonne
+23/03/2022"18:59:44"M"19"22/03/2022"18H-20H"Cité u - Entrée simbock (250). Entrée simbock - Eloumdem après le pont (marche)"250"Oui"50"Bonne
+23/03/2022"19:00:52"M"18"23/03/2022"06H-10H"Carrefour TIMI oyomabang( sur la nouvelle route de nkolbisson) - NIKI mokolo (200 f))"200"Oui"20"Bonne
+23/03/2022"19:24:12"F"18"23/03/2022"R.A.S"R.A.S"0"Non"0"R.A.S
+23/03/2022"19:25:33"M"21"22/03/2022"12H-16H"Nkolsie-chapelle tkc(100f) ; chapelle tck-site U(300f)"400"Non"30"Passable
+23/03/2022"19:26:02"M"18"23/03/2022"10H-12H"chefferie de derrière zibi- carrefour banane"100"Non"10"Passable
+23/03/2022"19:26:44"F"17"22/03/2022"16H-18H"Cradat -education -100-taxi, éducation-bonas devant auto école Mane d'Afrik-200-taxi"300"Non"15"Bonne
+23/03/2022"19:27:23"F"18"23/03/2022"6H-10H"Entrée simbock-citeU"250"Non"10"Passable
+23/03/2022"19:29:33"M"18"23/03/2022"RAS"RAS"0"Non"0"RAS
+23/03/2022"19:29:38"M"21"22/03/2022"18H-20H"Uy1-site U(marche); site U- chapelle tkc (300); chapelle tkc-nkzie_carrefour(100)"400"Oui"60"Passable
+23/03/2022"23:08:39"F"21"23/03/2022"12H-16H"Point de départ carrefours obili,100,100"200"Non"10"Passable
+23/03/2022"23:11:11"M"21"23/03/2022"6H-10H"Chapelle Mimboman -château Mimboman-chapelle Mimboman (marche)"0"Non"30"Mauvaise
+23/03/2022"23:11:23"M"22"23/03/2022"12H-16H"Nkomkana~ngoaekele, moyen transport : voiture ."500"Non"15"Passable
+23/03/2022"23:11:29"F"18"23/03/2022"16H-18H"Trajet d'obobogo au carrefour Colombia pour le Carrefour Emia à 300francs"600"Non"15"Bonne
+23/03/2022"23:12:41"F"18"23/03/2022"16H-18H"Selecte Etoa Meki -hôpital général Tarif : 250 fcfa Moyen de transport: moto et taxi"450"Oui"60"Mauvaise
+23/03/2022"23:13:11"M"19"23/03/2022"06H-10H"Départ : maison Arrivée : Université(aller et retour) Tarif : 1000fcfa Moyen de transport :moto"1000"Oui"45"Bonne
+23/03/2022"23:13:29"M"19"23/03/2022"18H-20H"Entrée terre rouge pour jouvence 150 moto"300"Non"10"Bonne
+23/03/2022"23:15:19"M"19"23/03/2022"16H-18H"Shell simellon carrefour obili"250"Oui"10"Passable
+23/03/2022"23:26:49"F"18"23/03/2022"16H-18H"Hôtel manguier pour marché Etoudi en taxi -150"300"Non"10"Passable
+23/03/2022"23:26:51"F"19"23/03/2022"10H-12H"De l'hopital General a Ngoa Ekelel"500"Oui"90"Passable
+23/03/2022"23:28:54"M"22"23/03/2022"06H-10H"Total melen pour Château (100f) par taxi sur route goudronnée."100"Non"5"Bonne
+23/03/2022"23:35:46"F"18"23/03/2022"06H-10H"Le lieu de départ était La Chapelle Manguier et l’arrivé était le Château . Le tarif allé c’est 350fcfa et le retour 300fcfa. Le moyen de transport emprunté était le taxi"650"Oui"50"Passable
+23/03/2022"23:39:22"M"19"23/03/2022"16H-18H"Vouari Municipale - nouvelle route tamtam 300fcfa taxi"300"Non"25"Bonne
+23/03/2022"23:41:24"M"19"23/03/2022"20H-22H"Nouvelle route tamtam - vouari municipal 300 taxi"300"Non"27"Bonne
